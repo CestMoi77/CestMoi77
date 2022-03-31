@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, chess and a lot of other stufff. 
 - 🌱 I’m currently learning C#, SSMS, PowerBI and Azure cloud services
 - 💞️ I’m looking to collaborate on software and data solutions
-- 📫 How to reach me 
+- 📫 You can reach me.... 
 
 <!---
 CestMoi77/CestMoi77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
